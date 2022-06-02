@@ -3,7 +3,6 @@
     "short_name": "Stick-it",
     "scope": "/",
     "start_url": "/",
-    "scope": "./",
     "icons": [
         {"src": "icon.png",
         "sizes": "512x512",
