@@ -1,0 +1,10 @@
+{
+    "root": ".",
+    "logging": {
+        "access": false,
+        "error": "warn"
+    },
+    "headers": {
+        "Cache-Control": "max-age=31536000"
+    }
+}
